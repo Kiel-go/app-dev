@@ -1,5 +1,3 @@
-# app-dev
- first repository
 # My Favorite Series: Stranger Things
 
 ## Why I Love It
